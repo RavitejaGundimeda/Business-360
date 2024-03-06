@@ -6,3 +6,6 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 # Tech Sacks Used
 SQL PowerBi Desktop Excel DAX language DAX studio (for optimizing the report) Project charter file.
+
+# Link to Download
+https://drive.google.com/file/d/1PVeaxQL9qRCAF0_lPWfkP5UjePYFA9YY/view?usp=sharing
